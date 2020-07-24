@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Youtube Video
 
-{% include youtube_test.html id="WZ6NdfwlKIQ" %}
+{% include youtubePlayer.html id="WZ6NdfwlKIQ" %}
