@@ -2,8 +2,6 @@
 youtubeId: WZ6NdfwlKIQ
 ---
 
-@import "{{ site.theme }}"
-
 ## Welcome to GitHub Pages
 
 {:.testClass}
